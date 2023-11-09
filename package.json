@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon chatgo.js",
-    "start": "node chatgo.js"
+    "test": "nodemon index.js",
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "ToniPortal",
   "license": "MIT",
   "dependencies": {
     "cookie-parser": "^1.4.6",
